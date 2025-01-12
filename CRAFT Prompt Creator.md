@@ -1,5 +1,5 @@
-# CRAFT Prompt Prompt Crafter
-From Lawton Solutions https://lawtonsolutions.com/How-To-AI/
+# CRAFT Prompt Creator
+See Lawton Solutions https://lawtonsolutions.com/How-To-AI/
 
 **Copy and paste the prompt creation text, below, into a prompt. Customize the results, then use the resulting prompt in a new chat to get your desired output from ChatGPT or your favorite LLM.**
 
