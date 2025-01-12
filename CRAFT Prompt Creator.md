@@ -1,8 +1,7 @@
 # CRAFT Prompt Prompt Crafter
 From Lawton Solutions https://lawtonsolutions.com/How-To-AI/
 
-Copy and paste the prompt creation text, below, into a prompt. Customize the results, then use the resulting prompt in a new chat to get your desired output from ChatGPT or your favorite LLM
-=========
+*Copy and paste the prompt creation text, below, into a prompt. Customize the results, then use the resulting prompt in a new chat to get your desired output from ChatGPT or your favorite LLM*
 
 CONTEXT: We are going to create one of the best ChatGPT prompts ever written. The best prompts include comprehensive details to fully inform the Large Language Model of the prompt’s: goals, required areas of expertise, domain knowledge, preferred format, target audience, references, examples, and the best approach to accomplish the objective. Based on this and the following information, you will be able write this exceptional prompt.
 
